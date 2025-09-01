@@ -1,3 +1,6 @@
+
+<img width="512" height="512" alt="team" src="https://github.com/user-attachments/assets/5a6492cf-e1cf-4551-a1a8-b299d0564fc8" />
+
 # StaffManager
 
 StaffManager is a web application for staff and absence management. It allows HR teams and managers to easily track employee status, current absences, and birthdays of the month. The tool is simple, intuitive, and fully customizable.
