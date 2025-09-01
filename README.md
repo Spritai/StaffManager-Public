@@ -1,33 +1,33 @@
 # StaffManager
 
-StaffManager est une application web de gestion de personnel et d’absences. Elle permet aux équipes RH et managers de suivre facilement le statut des employés, les absences en cours et les anniversaires du mois. L’outil est simple, intuitif et entièrement personnalisable.
+StaffManager is a web application for staff and absence management. It allows HR teams and managers to easily track employee status, current absences, and birthdays of the month. The tool is simple, intuitive, and fully customizable.
 
 ---
 
-## 📌 Fonctionnalités
+## 📌 Features
 
-- **Gestion du personnel :** Ajout, modification et suppression des employés.
-- **Suivi des absences :** Déclarer, modifier et visualiser les absences des membres du staff.
-- **Filtrage intelligent :** Filtrage des absences par statut (*En absence / Terminé*) et par employé.
-- **Dashboard interactif :**
-  - Nombre total de staff
-  - Staff actifs
-  - Absences en cours
-  - Anniversaires du mois
-  - Derniers ajouts et absences récentes
-- **Mode sombre :** Possibilité de passer en thème sombre pour un confort visuel.
-- **Responsive :** Compatible avec ordinateurs, tablettes et mobiles.
+- **Staff Management:** Add, edit, and remove employees.  
+- **Absence Tracking:** Declare, modify, and view staff absences.  
+- **Smart Filtering:** Filter absences by status (*On Leave / Completed*) and by employee.  
+- **Interactive Dashboard:**
+  - Total staff
+  - Active staff
+  - Current absences
+  - Birthdays of the month
+  - Recent staff and absences
+- **Dark Mode:** Toggle dark theme for visual comfort.  
+- **Responsive:** Compatible with desktops, tablets, and mobile devices.  
 
 ---
 
-## 🛠 Technologies utilisées
+## 🛠 Technologies Used
 
-- **Frontend :** HTML5, CSS3, JavaScript (Vanilla JS)
-- **Backend :** PHP 8+
-- **Base de données :** MySQL / MariaDB
-- **Librairies et outils :**
-  - FontAwesome pour les icônes
+- **Frontend:** HTML5, CSS3, JavaScript (Vanilla JS)  
+- **Backend:** PHP 8+  
+- **Database:** MySQL / MariaDB  
+- **Libraries and Tools:**
+  - FontAwesome for icons
   - Google Fonts (Inter)
-  - PHP dotenv pour la gestion des variables d’environnement
+  - PHP dotenv for environment variables
 
 ---
