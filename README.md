@@ -35,5 +35,10 @@ StaffManager is a web application for staff and absence management. It allows HR
   - FontAwesome for icons
   - Google Fonts (Inter)
   - PHP dotenv for environment variables
+ 
+    
+## Wiki
+
+https://github.com/Spritai/StaffManager-Public/wiki/Install-%E2%80%90-Setup
 
 ---
