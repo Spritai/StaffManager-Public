@@ -10,9 +10,10 @@ StaffManager is a web application for staff and absence management. It allows HR
 
 ## 📌 Features
 
-- **Staff Management:** Add, edit, and remove employees.  
+- **Staff Management:** Add, edit, and remove employees.  t
 - **Absence Tracking:** Declare, modify, and view staff absences.  
-- **Smart Filtering:** Filter absences by status (*On Leave / Completed*) and by employee.  
+- **Smart Filtering:** Filter absences by status (*On Leave / Completed*) and by employee.
+- A system that allows staff to be warned
 - **Interactive Dashboard:**
   - Total staff
   - Active staff
